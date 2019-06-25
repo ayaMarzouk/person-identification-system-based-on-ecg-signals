@@ -65,7 +65,7 @@ That was a naive way and may not be accurate.
 - The second approach was ​automated one ​using ​QRS detection for ECG
 signals:
 
-![The Result](https://drive.google.com/open?id=1OVKZ-JRLeoGN07t2Un_YzqXPeI0bOdhD)
+![](Photos/QRs.png)
 
 - After detecting QRs, we calculate the distance between each one and it’s
 following, afterward, we take the median of the final distance to avoid any
