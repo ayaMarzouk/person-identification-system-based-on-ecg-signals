@@ -36,7 +36,7 @@ With the following Parameters:
 First Trail with Order = 5, make a huge distortion to the signal, as shown in the
 Picture:
 
-![Result or filter with order=5](https://drive.google.com/open?id=1AGrgQWlRfyQg-ThumOmXpRtHqM-vCAWx)
+![](Photos/Result_filter_with_order=5.png)
 
 - On the next trail, we decided to go with the Order = 1 & Order =2 for it
 achieve both Noise reduction with keeping the main components of the
