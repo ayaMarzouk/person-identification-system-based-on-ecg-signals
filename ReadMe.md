@@ -41,7 +41,7 @@ Picture:
 - On the next trail, we decided to go with the Order = 1 & Order =2 for it
 achieve both Noise reduction with keeping the main components of the
 signal unharmed.
-![Result of filter = 1 & 2 ](https://drive.google.com/open?id=1UbO8CNlHnHLBrq9Bw8gE_m-g2R_zM2Vc)
+![](Photos/Result_of_filter=1&2.png)
 
 # 3.3 Normalization Phase:
 - In this phase, we intend to transform all the training data values (samples)
