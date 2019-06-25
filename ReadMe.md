@@ -97,4 +97,5 @@ different machine learning algorithms (​SVM, KNN, GaussianNB​)
 - After finishing the training model for each one of the classifier, we used
 each model to predict to whom the input heartbeat signal is belonging and
 the winning scores can be found in the .xlsx file 
+![](Photos/winning_acc.png)
 
