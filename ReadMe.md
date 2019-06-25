@@ -41,7 +41,7 @@ Picture:
 - On the next trail, we decided to go with the Order = 1 & Order =2 for it
 achieve both Noise reduction with keeping the main components of the
 signal unharmed.
-![Result of filter = 1 & 2 ] (https://drive.google.com/open?id=1UbO8CNlHnHLBrq9Bw8gE_m-g2R_zM2Vc)
+![Result of filter = 1 & 2 ](https://drive.google.com/open?id=1UbO8CNlHnHLBrq9Bw8gE_m-g2R_zM2Vc)
 
 # 3.3 Normalization Phase:
 - In this phase, we intend to transform all the training data values (samples)
@@ -65,7 +65,7 @@ That was a naive way and may not be accurate.
 - The second approach was ​automated one ​using ​QRS detection for ECG
 signals:
 
-![The Result] (https://drive.google.com/open?id=1OVKZ-JRLeoGN07t2Un_YzqXPeI0bOdhD)
+![The Result](https://drive.google.com/open?id=1OVKZ-JRLeoGN07t2Un_YzqXPeI0bOdhD)
 
 - After detecting QRs, we calculate the distance between each one and it’s
 following, afterward, we take the median of the final distance to avoid any
@@ -83,7 +83,7 @@ training and testing phases, This phase is broken into two main stages:
 the signal or if it is purely random and it can identify signals that are
 embedded signals or noise.
 
-![ Result of autocorrelation] (https://drive.google.com/open?id=1OVKZ-JRLeoGN07t2Un_YzqXPeI0bOdhD)
+![ Result of autocorrelation](https://drive.google.com/open?id=1OVKZ-JRLeoGN07t2Un_YzqXPeI0bOdhD)
 
 # 4.2) Discrete Cosine Transform (DCT):
 - In this step of feature extraction, we aim to compress the output segment out
