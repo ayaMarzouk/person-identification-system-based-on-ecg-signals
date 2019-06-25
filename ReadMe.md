@@ -96,5 +96,5 @@ different machine learning algorithms (​SVM, KNN, GaussianNB​)
 # 5) Testing Phase:
 - After finishing the training model for each one of the classifier, we used
 each model to predict to whom the input heartbeat signal is belonging and
-here are the winning scores:
+the winning scores can be found in the .xlsx file 
 
