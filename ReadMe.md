@@ -83,7 +83,7 @@ training and testing phases, This phase is broken into two main stages:
 the signal or if it is purely random and it can identify signals that are
 embedded signals or noise.
 
-![Result of autocorrelation](Result_auto.png)
+![](Result_auto.png)
 
 # 4.2) Discrete Cosine Transform (DCT):
 - In this step of feature extraction, we aim to compress the output segment out
